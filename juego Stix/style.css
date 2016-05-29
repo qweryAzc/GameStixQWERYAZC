@@ -1,0 +1,10 @@
+body{
+	width: 1000px;
+	margin: 50px 300px;
+	background-color: #C4C0DC;
+}
+#mycanvas{
+	 border-style: solid;
+
+	 box-shadow: 19px 11px 26px 3px rgba(0,0,0,0.66);
+}

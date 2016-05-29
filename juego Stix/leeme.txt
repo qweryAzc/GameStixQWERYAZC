@@ -1,0 +1,8 @@
+
+Carrera: Informatica
+Materia: Programacion Web
+
+
+ejecutar index.html
+
+dirigir con las teclas de direccionamiento
